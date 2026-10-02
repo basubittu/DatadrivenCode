@@ -12,6 +12,7 @@ public class NewJava {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
+                // check data
 		String userName = "";
 		String pwd = "";
 		FileInputStream file = new FileInputStream("C://WorkSpace//ExcelFileData//src//main//resources//data.xlsx");
